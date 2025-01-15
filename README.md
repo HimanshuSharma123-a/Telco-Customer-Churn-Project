@@ -204,10 +204,13 @@ SELECT PaperlessBilling,
        (SUM(CASE WHEN Churn = 'Yes' THEN 1 ELSE 0 END) * 100.0 / COUNT(*)) AS Churn_Rate
 FROM `telco-customer-churn`
 GROUP BY PaperlessBilling;
+```
 
  
-
-
+## Insights and Recommendations
+- Highlight churn trends (e.g., month-to-month contracts have a higher churn rate).
+- Identify services that can reduce churn (e.g., offering discounts for annual contracts).
+- Showcase SQL skills and actionable insights derived from the dataset.
 
  
 
