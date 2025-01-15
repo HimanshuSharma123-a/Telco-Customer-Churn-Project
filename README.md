@@ -1,5 +1,3 @@
-# Telco-Customer-Churn-Project
-
 # Telco Customer Churn Analysis
 SQL PROJECT
 This project aims to analyze and predict customer churn for a telecom company using a dataset from Kaggle. The analysis is performed using SQL queries, exploring various aspects of customer behavior and identifying patterns that may lead to churn. The goal is to uncover insights that can help reduce churn and improve customer retention.
