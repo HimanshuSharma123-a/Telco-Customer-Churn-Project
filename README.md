@@ -1,6 +1,9 @@
 
 [**Download Dataset**](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 # Telco Customer Churn Analysis
+
+![logo](https://github.com/HimanshuSharma123-a/Telco-Customer-Churn-Project/blob/main/i.avif)
+
 SQL PROJECT
 This project aims to analyze and predict customer churn for a telecom company using a dataset from Kaggle. The analysis is performed using SQL queries, exploring various aspects of customer behavior and identifying patterns that may lead to churn. The goal is to uncover insights that can help reduce churn and improve customer retention.
 
