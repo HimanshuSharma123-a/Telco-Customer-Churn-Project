@@ -211,8 +211,8 @@ GROUP BY PaperlessBilling;
 
  
 ## Insights and Recommendations
-- Highlight churn trends (e.g., month-to-month contracts have a higher churn rate).
-- Identify services that can reduce churn (e.g., offering discounts for annual contracts).
+- Highlight churn trends ( month-to-month contracts have a higher churn rate).
+- Identify services that can reduce churn ( offering discounts for annual contracts).
 - Showcase SQL skills and actionable insights derived from the dataset.
 
  
